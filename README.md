@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Edward-Hawkes
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning Python and Go
+- 📫 You can reach me via email at edward.hawkes@protonmail.com
